@@ -1,0 +1,6 @@
+C:\Users\Tanner Ghosen\Documents\My Code\Visual Studio\reactproject1\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\Tanner Ghosen\Documents\My Code\Visual Studio\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\Tanner Ghosen\Documents\My Code\Visual Studio\First React Project\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\Tanner Ghosen\Documents\My Code\Visual Studio\First React Project\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\Tanner Ghosen\Documents\My Code\Visual Studio\React Practice\obj\Debug\reactproject1.esproj.SuggestedBindingRedirects.cache
+C:\Users\Tanner Ghosen\Documents\My Code\Visual Studio\React Practice\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
