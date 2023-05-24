@@ -6,7 +6,7 @@ By Tanner Ghosen<br>
 <br>Node.js
 <br>Following Node.js Libraries Included:
 <br>* React (default)
-<br>* React-Router (had be installed)
+<br>* React-Router (had to be installed)
 <br><br>
 
 # Summary:
