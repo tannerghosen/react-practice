@@ -1,5 +1,17 @@
 ﻿import React, { useState, useEffect } from "react";
 
+/* useState Hook allows us to track state in a function component,
+   usually data or properties that need to be tracked (in the case of
+   this function, the time and the time setter, which is new Date();.)
+   It is initalized by taking an inital state (after the =) and 2 variables,
+   the current state and the function to update the state (as mentioned above,
+   the time and the time setter/updater).
+   useEffect Hooks allows you to perform side effects in your components,
+   such as fetching data, directly updating the DOM and timers. We use 
+   useEffect here to use setTime to update time to the current time every
+   1 second.
+   */
+
 function TheTime() { // Time function
     const [time, setTime] = useState(new Date());
     useEffect(() => {
